@@ -1341,13 +1341,15 @@ a {
     padding: 1rem;
   }
 }
-.cid-usZ80C0PrS {
+.cid-uGReQol3IH {
+  padding-top: 11rem;
+  padding-bottom: 11rem;
   background-image: url("../../../assets/images/danipechi-260223.webp");
 }
-.cid-usZ80C0PrS .mbr-fallback-image.disabled {
+.cid-uGReQol3IH .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-usZ80C0PrS .mbr-fallback-image {
+.cid-uGReQol3IH .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1356,11 +1358,46 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-usZ80C0PrS .mbr-section-title {
-  color: #d70081;
+.cid-uGReQol3IH .row {
+  flex-direction: row-reverse;
 }
-.cid-usZ80C0PrS .mbr-text,
-.cid-usZ80C0PrS .mbr-section-btn {
+@media (max-width: 992px) {
+  .cid-uGReQol3IH .mbr-figure {
+    margin-top: 1.5rem;
+  }
+}
+.cid-uGReQol3IH .row {
+  align-items: center;
+}
+@media (min-width: 992px) {
+  .cid-uGReQol3IH .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-uGReQol3IH .media-content,
+.cid-uGReQol3IH .mbr-figure {
+  align-self: center;
+}
+.cid-uGReQol3IH .mbr-figure iframe {
+  width: 100%;
+  border-radius: 2rem;
+  overflow: hidden;
+}
+.cid-uGReQol3IH .mbr-figure {
+  border-radius: 0rem;
+  overflow: hidden;
+}
+@media (min-width: 767px) {
+  .cid-uGReQol3IH .mbr-figure {
+    border-radius: 2rem;
+  }
+}
+.cid-uGReQol3IH .mbr-section-title {
+  color: #d70081;
+  text-align: left;
+}
+.cid-uGReQol3IH .mbr-text,
+.cid-uGReQol3IH .mbr-section-btn {
   color: #ffffff;
 }
 .cid-usZ9o551yp {
