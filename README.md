@@ -1,3 +1,4 @@
-Didatize materiais autênticos @Papo de Profes
+# Didatize materiais autênticos
+Static landing page product | Papo de Profes
 
-Static page for Papo de Profes product
+URL: https://didatize.papodeprofes.com.br/
